@@ -25,8 +25,23 @@ Puedes ver una demo en vivo [aquí](https://tu-usuario.github.io/taskmaster-list
 - **JavaScript Vanilla**: Funcionalidad sin frameworks
 - **Local Storage**: Para persistencia de datos (próxima feature)
 
+## 🔮 Roadmap
+
+Características planeadas para futuras versiones:
+
+- [ ] **Persistencia con Local Storage** - Guardar tareas entre sesiones
+- [ ] **Edición de tareas** - Modificar tareas existentes sin eliminarlas
+- [ ] **Fechas de vencimiento** - Agregar fechas límite y recordatorios
+- [ ] **Búsqueda de tareas** - Filtrar tareas por texto
+- [ ] **Modo oscuro/claro** - Alternar entre temas claros y oscuros
+- [ ] **Notificaciones** - Alertas para tareas pendientes
+
+¿Tienes ideas? ¡Abre un [issue](https://github.com/tu-usuario/tu-repo/issues) para discutirlo!
+
 ## 📦 Instalación
 
 1. Clona el repositorio:
 ```bash
+
 git clone https://github.com/tu-usuario/taskmaster-lista-tareas.git
+
