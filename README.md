@@ -16,7 +16,7 @@ Una aplicación web responsiva para gestionar tus tareas diarias, desarrollada c
 
 ## 🚀 Demo
 
-Puedes ver una demo en vivo [aquí](https://tu-usuario.github.io/taskmaster-lista-tareas/)
+Puedes ver una demo en vivo [aquí](https://elianarmendarizz.github.io/Todo-list/)
 
 ## 🛠️ Tecnologías utilizadas
 
@@ -44,5 +44,6 @@ Características planeadas para futuras versiones:
 ```bash
 
 git clone https://github.com/tu-usuario/taskmaster-lista-tareas.git
+
 
 
