@@ -2,7 +2,7 @@
 
 Una aplicación web responsiva para gestionar tus tareas diarias, desarrollada con HTML5, CSS3 y JavaScript vanilla.
 
-![Captura de la aplicación](https://via.placeholder.com/800x400/162947/ffffff?text=TaskMaster+-+Lista+de+Tareas)
+![Captura de la aplicación](./images/screenshot-1.png)
 
 ## ✨ Características
 
@@ -44,4 +44,5 @@ Características planeadas para futuras versiones:
 ```bash
 
 git clone https://github.com/tu-usuario/taskmaster-lista-tareas.git
+
 
