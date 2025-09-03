@@ -36,14 +36,15 @@ Características planeadas para futuras versiones:
 - [ ] **Modo oscuro/claro** - Alternar entre temas claros y oscuros
 - [ ] **Notificaciones** - Alertas para tareas pendientes
 
-¿Tienes ideas? ¡Abre un [issue](https://github.com/tu-usuario/tu-repo/issues) para discutirlo!
+¿Tienes ideas? ¡Abre un [issue](https://github.com/ElianArmendarizz/Todo-list/issues) para discutirlo y mejorarlo!
 
 ## 📦 Instalación
 
 1. Clona el repositorio:
 ```bash
 
-git clone https://github.com/tu-usuario/taskmaster-lista-tareas.git
+git clone https://github.com/ElianArmendarizz/Todo-list.git
+
 
 
 
