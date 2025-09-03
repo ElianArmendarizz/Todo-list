@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="index.css">
+    <title>Lista de Tareas</title>
+</head>
+<body>
+    <main>
+        <div class="contenedor">
+            <h1>Lista de Tareas</h1>
+            <div class="nueva-tarea">
+                <input type="text" id="input-tarea" placeholder="Nombre de la Tarea" />
+                <textarea name="desc-tarea" id="desc-tarea" placeholder="Descripción de la Tarea"></textarea>
+                <select name="categorias" id="categorias">
+                    <option value="" disabled selected>Selecciona una Categoría</option>
+                    <option value="trabajo">Trabajo</option>
+                    <option value="personal">Personal</option>
+                    <option value="estudio">Estudio</option>
+                </select>
+                <button class="btn" id="btn-agregar">Añadir Tarea</button>
+            </div>
+        </div>
+        <div class="tareas-agregadas">
+            <h2>Tareas Agregadas</h2>
+            <select name="filtro-categorias" id="filtro-categorias">
+                <option value="" selected>
+                    Selecciona que categoria quieres ver
+                </option>
+                <option value="Todos">Todos</option>
+                <option value="trabajo">Trabajo</option>
+                <option value="personal">Personal</option>
+                <option value="estudio">Estudio</option>
+            </select>
+            <ul id="lista-tareas">
+                <!-- aqui se agregaran las tareas -->
+            </ul>
+        </div>
+    </main>
+    <script src="index.js"></script>
+</body>
+</html>
